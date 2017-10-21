@@ -13,8 +13,8 @@ public static void main(String[] args) {
 	System.out.println(str.substring(2));
 	System.out.println(str2.substring(2));
 	
-	System.out.println(str.charAt(2));
-	System.out.println(str2.charAt(1));
+	System.out.println(str.charAt(2));	//A
+	System.out.println(str2.charAt(1));	//C
 	
 	System.out.println(str.compareTo(str1));
 	
